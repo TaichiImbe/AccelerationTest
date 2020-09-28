@@ -6,7 +6,7 @@ function handleOrientation(event) {
     const beta = event.beta;
     const gamma = event.gamma;
 
-    const hoge = document.getElementById("hoge");
+    const hoge = document.getElementById("Hoge");
 
     hoge.textContent = absolute
     
