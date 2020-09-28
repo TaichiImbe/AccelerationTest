@@ -8,6 +8,6 @@ function handleOrientation(event) {
 
     const hoge = document.getElementById("Hoge");
 
-    hoge.textContent = absolute
+    hoge.innerHTML = absolute
     
 }
